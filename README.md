@@ -31,3 +31,5 @@ A secure and customizable password manager built with Python and Tkinter. This t
 ```bash
 git clone https://github.com/Harsh179Bansal/Advance-Password-Manager.git
 cd Advance-Password-Manager
+pip install -r requirements.txt
+python3 password_manager.py
