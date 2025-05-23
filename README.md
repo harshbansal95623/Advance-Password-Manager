@@ -1,4 +1,5 @@
 🔐 Advanced Password Manager (GUI-Based)
+
 A secure and customizable password manager built with Python and Tkinter. This tool allows users to store, retrieve, and generate complex passwords with authentication and secure SQLite storage, along with clipboard integration for convenience.
 
 🛡️ Features
