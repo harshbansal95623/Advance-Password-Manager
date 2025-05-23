@@ -38,11 +38,10 @@ cd Advance-Password-Manager
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
-Run the application:
+pip3 install -r requirements.txt
 ```
 
-Run the file
+Run the application:
 
 ```bash
 python3 password_manager.py
