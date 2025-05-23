@@ -42,6 +42,8 @@ pip install -r requirements.txt
 Run the application:
 ```
 
+Run the file
+
 ```bash
 python3 password_manager.py
 ```
