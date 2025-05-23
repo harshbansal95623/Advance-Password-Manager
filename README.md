@@ -4,19 +4,19 @@ A secure and customizable password manager built with Python and Tkinter. This t
 
 🛡️ Features
 
-🔒 Authentication System: Secure access using a predefined passcode.
+Authentication System: Secure access using a predefined passcode.
 
-💾 Save Passwords: Store account credentials securely in an SQLite database.
+Save Passwords: Store account credentials securely in an SQLite database.
 
-🔍 Retrieve Passwords: Search for saved credentials and copy them to the clipboard.
+Retrieve Passwords: Search for saved credentials and copy them to the clipboard.
 
-🛠️ Custom Password Generator: Generate strong, complex passwords based on customizable criteria.
+Custom Password Generator: Generate strong, complex passwords based on customizable criteria.
 
-👁️ Toggle Visibility: Show/hide password input fields for added privacy.
+Toggle Visibility: Show/hide password input fields for added privacy.
 
-📋 Clipboard Integration: Automatically copy retrieved or generated passwords to your clipboard.
+Clipboard Integration: Automatically copy retrieved or generated passwords to your clipboard.
 
-🧰 Tech Stack
+Tech Stack
 
 Language: Python 3
 
