@@ -29,11 +29,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/Harsh179Bansal/Advance-Password-Manager.git
 cd Advance-Password-Manager
+```
+
 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 Run the application:
+```
 
 ```bash
 python3 password_manager.py
+```
