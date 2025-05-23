@@ -27,6 +27,7 @@ Database: SQLite3
 Other Libraries: pyperclip (for clipboard integration)
 
 📦 Installation & Usage
+
 Clone the repository:
 
 ```bash
