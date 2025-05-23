@@ -24,7 +24,7 @@ A secure and customizable password manager built with Python and Tkinter. This t
 
 ---
 
-## 📦 Installation
+## 📦 Installation && Usge
 
 1. **Clone the Repository**
 
