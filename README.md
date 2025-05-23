@@ -16,7 +16,7 @@ Toggle Visibility: Show/hide password input fields for added privacy.
 
 Clipboard Integration: Automatically copy retrieved or generated passwords to your clipboard.
 
-Tech Stack
+🧰 Tech Stack
 
 Language: Python 3
 
