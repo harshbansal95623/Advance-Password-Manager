@@ -2,7 +2,7 @@
 
 A secure and customizable password manager built with Python and Tkinter. This tool allows users to store, retrieve, and generate complex passwords with authentication and secure SQLite storage, along with clipboard integration for convenience.
 
-🛡️ Features
+# 🛡️ Features
 
 Authentication System: Secure access using a predefined passcode.
 
@@ -16,7 +16,7 @@ Toggle Visibility: Show/hide password input fields for added privacy.
 
 Clipboard Integration: Automatically copy retrieved or generated passwords to your clipboard.
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 
 Language: Python 3
 
@@ -26,7 +26,7 @@ Database: SQLite3
 
 Other Libraries: pyperclip (for clipboard integration)
 
-📦 Installation & Usage
+# 📦 Installation & Usage
 
 Clone the repository:
 
